@@ -1,0 +1,19 @@
+2020/11/30 17:14:14 Reading Indeices
+2020/11/30 17:14:14 Received : {"Type":1,"SenderID":"QmTd6PkeRgbbyHTvyeKpse6tHnuv8hYprt8FSLMc14kvWv","IntendedReceiver":"","Message":null}
+2020/11/30 17:14:14 Received : {"Type":2,"SenderID":"QmZqsR4pHGc7Vvabt5rjBX73XNyo6MBFo4Lr7RyNNn9Nau","IntendedReceiver":"QmTd6PkeRgbbyHTvyeKpse6tHnuv8hYprt8FSLMc14kvWv","Message":{"latestIndex":4}}
+2020/11/30 17:14:14 Read IndexReturn Type msg from QmZqsR4pHGc7Vvabt5rjBX73XNyo6MBFo4Lr7RyNNn9Nau
+2020/11/30 17:14:14 Received : {"Type":2,"SenderID":"QmP83oSMWXjmihzQqyxwBwXucKgoCUE1hmZt2S8xJLK6qK","IntendedReceiver":"QmTd6PkeRgbbyHTvyeKpse6tHnuv8hYprt8FSLMc14kvWv","Message":{"latestIndex":4}}
+2020/11/30 17:14:14 Read IndexReturn Type msg from QmP83oSMWXjmihzQqyxwBwXucKgoCUE1hmZt2S8xJLK6qK
+2020/11/30 17:14:14 MaxIndex : QmZqsR4pHGc7Vvabt5rjBX73XNyo6MBFo4Lr7RyNNn9Nau 
+2020/11/30 17:14:14 Inside Request Block
+2020/11/30 17:14:14 Request Block Function Ended
+2020/11/30 17:14:14 Inside readLoop
+2020/11/30 17:14:14 Received : {"Type":5,"SenderID":"QmTd6PkeRgbbyHTvyeKpse6tHnuv8hYprt8FSLMc14kvWv","IntendedReceiver":"QmZqsR4pHGc7Vvabt5rjBX73XNyo6MBFo4Lr7RyNNn9Nau","Message":null}
+2020/11/30 17:14:14 Received : {"Type":4,"SenderID":"QmZqsR4pHGc7Vvabt5rjBX73XNyo6MBFo4Lr7RyNNn9Nau","IntendedReceiver":"QmTd6PkeRgbbyHTvyeKpse6tHnuv8hYprt8FSLMc14kvWv","Message":[{"Index":0,"Timestamp":"0","Trans":{"CardID":0,"Amount":0,"SignerID":"0"},"Hash":"5f40b74c66305d1f9351661bd2a1d68f13105928f43bee1c62e082a6d6616ad4","PrevHash":""},{"Index":1,"Timestamp":"2020-11-30 17:13:28.084881334 +0530 +0530 m=+13.074317148","Trans":{"CardID":1,"Amount":100,"SignerID":"9Nau"},"Hash":"1905f983603ad850e77ab95a1e40036f709be8897e1396e8419b6800809ec749","PrevHash":"5f40b74c66305d1f9351661bd2a1d68f13105928f43bee1c62e082a6d6616ad4"},{"Index":2,"Timestamp":"2020-11-30 17:13:32.484727351 +0530 +0530 m=+17.474163154","Trans":{"CardID":2,"Amount":150,"SignerID":"9Nau"},"Hash":"b64c66408c4d9b10d237432f7765aa7b3321d11a976c0accc30279ee4810cff4","PrevHash":"1905f983603ad850e77ab95a1e40036f709be8897e1396e8419b6800809ec749"},{"Index":3,"Timestamp":"2020-11-30 17:14:06.248250925 +0530 +0530 m=+87.719411403","Trans":{"CardID":1,"Amount":-10,"SignerID":"K6qK"},"Hash":"d1958cd52451aa3a8c2323357014ab3244276796bab68de4214b4668e79a3212","PrevHash":"b64c66408c4d9b10d237432f7765aa7b3321d11a976c0accc30279ee4810cff4"}]}
+2020/11/30 17:14:23 Accessing LastIndex 3
+2020/11/30 17:14:23 Received : {"Type":3,"SenderID":"QmTd6PkeRgbbyHTvyeKpse6tHnuv8hYprt8FSLMc14kvWv","IntendedReceiver":"","Message":{"Index":4,"Timestamp":"2020-11-30 17:14:23.234500005 +0530 +0530 m=+11.336677130","Trans":{"CardID":1,"Amount":-20,"SignerID":"kvWv"},"Hash":"70d0fdae02bb6ae0dbf9e8e1c7d88e7a46ac663278f62e4d53233c714359d38d","PrevHash":"d1958cd52451aa3a8c2323357014ab3244276796bab68de4214b4668e79a3212"}}
+2020/11/30 17:14:23 BlockRec Index 4 | Hash 70d0fdae02bb6ae0dbf9e8e1c7d88e7a46ac663278f62e4d53233c714359d38d | PrevHash d1958cd52451aa3a8c2323357014ab3244276796bab68de4214b4668e79a3212 | CardID 1 | Amount -20  | PosID kvWv
+2020/11/30 17:14:23 Accessing LastIndex 3
+2020/11/30 17:14:23 Validation Started
+2020/11/30 17:14:23 Validation Succ
+2020/11/30 17:14:23 Added Block | Index 4 | Hash 70d0fdae02bb6ae0dbf9e8e1c7d88e7a46ac663278f62e4d53233c714359d38d

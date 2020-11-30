@@ -1,0 +1,5 @@
+2020/11/30 17:12:08 Reading Indeices
+2020/11/30 17:12:08 MaxIndex :  
+2020/11/30 17:12:08 Inside readLoop
+2020/11/30 17:12:08 Received : {"Type":1,"SenderID":"QmTGmoaWTZ6r5gSsgVCeP7GY2WNGdFJ7mDoriPkbsZfnNF","IntendedReceiver":"","Message":null}
+2020/11/30 17:12:08 Received : {"Type":2,"SenderID":"QmTGmoaWTZ6r5gSsgVCeP7GY2WNGdFJ7mDoriPkbsZfnNF","IntendedReceiver":"QmTGmoaWTZ6r5gSsgVCeP7GY2WNGdFJ7mDoriPkbsZfnNF","Message":{"latestIndex":1}}
