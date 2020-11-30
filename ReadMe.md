@@ -1,4 +1,4 @@
-<img src="./Assets/icon.jpg" width=50px > 
+<h1><img src="./Assets/icon.jpg" width=36px > PosChain</h1> 
 
 # PosChain 
 A blockChain to manage Point-of-Sale Transactions.
@@ -12,8 +12,8 @@ A blockChain to manage Point-of-Sale Transactions.
 	`go build -o posTerminal ` 
 - To run the program, use 
 	
-	`./posTerminal -cashPos=false` to Make it Retail Terminal
-	`./posTerminal -cashPos=true` to Make it Cash Terminal
+	`./posTerminal -cashPos=false` to Make it Retail Terminal  
+	`./posTerminal -cashPos=true` to Make it Cash Terminal  
 
 
 ### Input Format 
