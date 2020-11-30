@@ -1,6 +1,5 @@
 <h1><img src="./Assets/icon.jpg" width=36px > PosChain</h1> 
 
-# PosChain 
 A blockChain to manage Point-of-Sale Transactions.
 
 <img src="./Assets/example.png" >
